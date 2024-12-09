@@ -1,4 +1,4 @@
-public class Pattern {
+public class pattern {
     public static void main(String[] args) {
         int rows = 5; // Number of rows (half of the diamond)
 
